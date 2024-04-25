@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruvk7
 - 👀 I’m interested in C++ , Java , Web development and much more programming fields.
-- 🌱 I’m currently learning Web Development .
+- 🌱 I’m currently learning Data Science .
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me through mail : dhruvkhera777@gmail.com
 
